@@ -25,3 +25,6 @@ tmp
 Gemfile.lock
 doc
 log
+
+## EDITOR
+.idea
