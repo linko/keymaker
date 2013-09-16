@@ -25,7 +25,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'hashie'
   s.add_dependency 'faraday'
   s.add_dependency 'faraday_middleware'
-  s.add_dependency 'psych', '~> 1.3'
 
 
   s.add_development_dependency 'fakeweb'
